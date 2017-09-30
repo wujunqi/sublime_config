@@ -1,0 +1,20 @@
+{
+	"schema_version": "1.2",
+	"packages": [
+		{
+			"name": "P4Sublime",
+			"description": "Plugin to Sublime Text 2 that uses the P4Python bindings rather than the command line client.",
+			"author": "Jeremy Jones",
+			"homepage": "https://bitbucket.org/jjones028/p4sublime",
+			"last_modified": "2012-08-30 02:57:00",
+			"platforms": {
+				"windows": [
+					{
+						"version": "0.1.2",
+						"url": "https://bitbucket.org/jjones028/p4sublime/get/0.1.2.zip"
+					}
+				]
+			}
+		}
+	]
+}

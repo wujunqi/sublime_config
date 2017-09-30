@@ -1,0 +1,51 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"/Users/junqi1/sina/channel_v3.json"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"42 Headers",
+		"Abacus",
+		"AdvancedNewFile",
+		"Agila Theme",
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Clickable URLs",
+		"Compare Side-By-Side",
+		"CTags",
+		"DashDoc",
+		"DocBlockr",
+		"Evernote",
+		"Git",
+		"MarkdownEditing",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"PHP Codebeautifier",
+		"PhpNinJaManual",
+		"Predawn",
+		"Pretty JSON",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-phplint",
+		"SublimeLinter-phpmd",
+		"SublimeREPL",
+		"SyncedSideBar",
+		"SyncedSidebarBg",
+		"TrailingSpaces",
+		"WakaTime"
+	]
+}

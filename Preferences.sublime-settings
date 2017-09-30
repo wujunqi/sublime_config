@@ -1,0 +1,37 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (Colorcoded) (SL).tmTheme",
+	"fade_fold_buttons": true,
+	"font_face": "Monaco",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"original_color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"predawn_findreplace_small": true,
+	"predawn_quick_panel_small": false,
+	"predawn_sidebar_arrows": true,
+	"predawn_sidebar_folder_gray": true,
+	"predawn_sidebar_large": true,
+	"predawn_sidebar_medium": false,
+	"predawn_sidebar_narrow": false,
+	"predawn_sidebar_small": false,
+	"predawn_sidebar_xlarge": false,
+	"predawn_sidebar_xsmall": false,
+	"predawn_tabs_active_underline": true,
+	"predawn_tabs_large": false,
+	"predawn_tabs_medium": true,
+	"predawn_tabs_small": false,
+	"theme": "Boxy Ocean.sublime-theme",
+	"theme_accent_green": true,
+	"theme_find_panel_atomized": true,
+	"theme_icons_materialized": true,
+	"theme_sidebar_icon_saturation_xh": true,
+	"theme_sidebar_size_xs": true,
+	"theme_size_sm": true,
+	"theme_statusbar_font_md": true,
+	"theme_tab_font_xs": true,
+	"theme_tab_selected_underlined": true,
+	"theme_tab_separator": true,
+	"theme_tab_width_auto": true
+}

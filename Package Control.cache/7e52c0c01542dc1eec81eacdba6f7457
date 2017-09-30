@@ -1,0 +1,159 @@
+{
+	"schema_version": "2.0",
+	"packages": [
+		{
+			"name": "Alignment",
+			"author": "Will Bond (wbond)",
+			"details": "https://github.com/wbond/sublime_alignment",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/wbond/sublime_alignment/tags"
+				}
+			]
+		},
+		{
+			"name": "ChannelRepositoryTools",
+			"author": "Will Bond (wbond)",
+			"details": "https://github.com/wbond/ChannelRepositoryTools",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/wbond/ChannelRepositoryTools/tags"
+				}
+			]
+		},
+		{
+			"name": "Package Control",
+			"description": "A full-featured package manager",
+			"author": "Will Bond (wbond)",
+			"homepage": "https://packagecontrol.io",
+			"donate": "https://packagecontrol.io/say_thanks",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"version": "3.2.1",
+					"url": "https://sublime.wbond.net/Package Control.sublime-package",
+					"date": "2016-09-22 21:13:00"
+				}
+			]
+		},
+		{
+			"name": "Package Coverage",
+			"author": "Will Bond (wbond)",
+			"details": "https://github.com/codexns/package_coverage",
+			"labels": ["testing"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/codexns/package_coverage/tags"
+				}
+			]
+		},
+		{
+			"name": "SFTP",
+			"description": "Commercial SFTP/FTP plugin - upload, sync, browse, remote edit, diff and vcs integration",
+			"author": "Will Bond (wbond)",
+			"readme": "https://wbond.net/sublime_packages/sftp/readme.md",
+			"homepage": "https://wbond.net/sublime_packages/sftp",
+			"buy": "https://wbond.net/sublime_packages/sftp/buy",
+			"issues": "https://wbond.net/sublime_packages/sftp/support",
+			"labels": ["ftp", "sync"],
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"platforms": ["osx", "linux"],
+					"version": "1.14.1",
+					"url": "https://packagecontrol.io/files/2-posix/SFTP.sublime-package",
+					"date": "2015-11-10 05:25:00"
+				},
+				{
+					"sublime_text": "<3000",
+					"platforms": ["windows"],
+					"version": "1.14.1",
+					"url": "https://packagecontrol.io/files/2-win/SFTP.sublime-package",
+					"date": "2015-11-10 05:25:00"
+				},
+				{
+					"sublime_text": ">=3000",
+					"platforms": ["osx", "linux"],
+					"version": "1.14.1",
+					"url": "https://packagecontrol.io/files/3-posix/SFTP.sublime-package",
+					"date": "2015-11-10 05:25:00"
+				},
+				{
+					"sublime_text": ">=3000",
+					"platforms": ["windows"],
+					"version": "1.14.1",
+					"url": "https://packagecontrol.io/files/3-win/SFTP.sublime-package",
+					"date": "2015-11-10 05:25:00"
+				}
+			]
+		},
+		{
+			"name": "SVN",
+			"description": "Full-featured commercial Subversion plugin with a focus on usability",
+			"author": "Will Bond (wbond)",
+			"readme": "https://wbond.net/sublime_packages/svn/readme.md",
+			"homepage": "https://wbond.net/sublime_packages/svn",
+			"buy": "https://wbond.net/sublime_packages/svn/buy",
+			"issues": "https://wbond.net/sublime_packages/svn/support",
+			"labels": ["vcs", "svn"],
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"platforms": ["osx", "linux"],
+					"version": "1.7.2",
+					"url": "https://packagecontrol.io/files/2-posix/SVN.sublime-package",
+					"date": "2014-01-24 20:13:00"
+				},
+				{
+					"sublime_text": "<3000",
+					"platforms": ["windows"],
+					"version": "1.7.2+2",
+					"url": "https://packagecontrol.io/files/2-win/SVN.sublime-package",
+					"date": "2014-01-29 13:33:00"
+				},
+				{
+					"sublime_text": ">=3000",
+					"platforms": ["osx", "linux"],
+					"version": "1.7.2",
+					"url": "https://packagecontrol.io/files/3-posix/SVN.sublime-package",
+					"date": "2014-01-24 20:13:00"
+				},
+				{
+					"sublime_text": ">=3000",
+					"platforms": ["windows"],
+					"version": "1.7.2+2",
+					"url": "https://packagecontrol.io/files/3-win/SVN.sublime-package",
+					"date": "2014-01-29 13:33:00"
+				}
+			]
+		},
+		{
+			"name": "Terminal",
+			"author": "Will Bond (wbond)",
+			"details": "https://github.com/wbond/sublime_terminal",
+			"labels": ["terminal"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/wbond/sublime_terminal/tags"
+				}
+			]
+		},
+		{
+			"name": "Tortoise",
+			"author": "Will Bond (wbond)",
+			"details": "https://github.com/wbond/sublime_tortoise",
+			"labels": ["vcs", "svn", "hg", "git"],
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"platforms": ["windows"],
+					"details": "https://github.com/wbond/sublime_tortoise/tags"
+				}
+			]
+		}
+	]
+}
